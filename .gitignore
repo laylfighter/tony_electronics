@@ -1,0 +1,31 @@
+# Database Configuration
+components/connect.php
+*.sql
+
+# System Files
+.DS_Store
+Thumbs.db
+*.tmp
+
+# IDE Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Environment Files
+.env
+.env.local
+
+# Logs
+*.log
+debug.log
+
+# Temporary Files
+node_modules/
+.cache/
+dist/
+build/
+
+# User Uploaded Files (optional - uncomment if tracking uploads)
+# uploaded_img/*
